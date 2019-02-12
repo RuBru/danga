@@ -1,0 +1,14 @@
+<% if(page.prev || page.next) { %>
+  <div class="pagination text-center my-3">
+    <% if(page.prev) { %>
+      <span class="previous">
+        <a href="<%- url_for(page.prev_link) %>" tabindex="-1"><i class="fa fa-long-arrow-left mr-2"></i> Atpakaļ </a>
+      </span>
+    <% } %>
+    <% if(page.next) { %>
+    <span class="next">
+      <a href="<%- url_for(page.next_link) %>"> Nākamā lapa <i class="fa fa-long-arrow-right ml-2"></i></a>
+    </span>
+    <% } %>
+  </div>
+<% } %>

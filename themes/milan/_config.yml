@@ -1,0 +1,31 @@
+# Header
+menu:
+  Sākums: /
+  Mono tējas: /mono
+  Par tējām: /about
+  Kur atrast: /contact
+header_text: Latvijas laukos vākta un audzēta tēja
+button_mix: Jauktās tējas
+button_mono: Mono tējas
+header_image: images/header.jpg
+
+# Favicon
+favicon_url: images/D.ico
+
+# Default Image for Posts
+default_image: images/replacement.jpg
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+email_url: mailto:aija.bruna@inbox.lv
+twitter_url:
+facebook_url:
+instagram_url:
+linkedin_url:
+dribbble_url:
+github_url:
+googleplus_url:
+behance_url:
+fivehundredpx_url:

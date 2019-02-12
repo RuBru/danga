@@ -1,0 +1,35 @@
+<div class="row pt-md-4">
+<% if(item.image) { %>
+  <div class="col-12 col-md-5 col-lg-4 offset-lg-1">
+        <img class="img-fluid cover-image" src="<%- url_for(item.image) %>" alt="<%- item.name || 'Untitled' %>">
+  </div>
+<% } %>
+  <div class="col-12 col-md-6 offset-md-1 mt-5 mt-md-3">
+
+    <div class="post-page text-center">
+      <h1><%- item.name || "Untitled" %></h1>
+    </div>
+
+    <%- item.content %>
+
+  </div>
+</div>
+  <%
+  var ordered = site.posts.sort('name', 1).data
+  var myIndex = ordered.findIndex((p) => p.id === page.id)
+  var prev = ordered[myIndex - 1]
+  var next = ordered[myIndex + 1]
+  if(prev || next) { %>
+    <div class="pagination text-center my-3">
+      <% if(prev) { %>
+        <span class="previous">
+          <a href="<%- url_for(prev.path) %>" tabindex="-1"><i class="fa fa-long-arrow-left mr-2"></i> Atpakaļ </a>
+        </span>
+      <% } %>
+      <% if(next) { %>
+      <span class="next">
+        <a href="<%- url_for(next.path) %>"> Nākamā tēja <i class="fa fa-long-arrow-right ml-2"></i></a>
+      </span>
+      <% } %>
+    </div>
+  <% } %>

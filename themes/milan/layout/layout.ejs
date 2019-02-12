@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- partial('_partial/head') %>
+
+  <body>
+
+		<%- partial('_partial/navbar') %>
+
+    <% if (is_current('/')){ %>
+      <%- partial('_partial/header') %>
+    <% } %>
+
+		<div class="container mt-2">
+			<%- body %>
+
+			<%- partial('_partial/footer') %>
+		</div>
+
+		<%- partial('_partial/scripts') %>
+
+  </body>
+</html>

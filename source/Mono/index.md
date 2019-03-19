@@ -5,145 +5,145 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iesp�
 <hr>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/apini.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Apiņi</div>Nomierinoši, gremošanas veicināšanai.</div>
+    <div class="mono-txt"><div class="mono-title">Apiņi</div>Apiņiem piemīt nomierinoša, pretsāpju un pretiekaisuma iedarbība. Augļkopu uzlējumu lieto uzbudinājuma, bezmiega, neirožu un histērijas mazināšanai, kā nomierinošu līdzekli klimaksa periodā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/asinszale.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Asinszāle</div>Pret depresiju un nemieru, veicina gremošanu, pretiekaisuma, mīkstinoša iedarbība, pret saaukstēšanos.</div>
+    <div class="mono-txt"><div class="mono-title">Asinszāle</div>Asinszālei piemīt spazmolītiska, žultsdzenoša, gremošanu veicinoša un pretiekaisuma iedarbība. Asinszāles tēja normalizē kapilāru caurlaidību, uzlabo venozo asinsriti, mazina tūsku. Tā aizkavē žultsakmeņu veidošanos, atvieglo žults izvadi. Asinszālei piemīt spēja uzlabot pašsajūtu un kliedēt drūmo garastāvokli.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/auzas.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Auzas</div>Organisma stiprināšanai, tonizēšanai, cukura līmeņa pazemināšanai, mazina vēlmi pēc narkotiskajām vielām.</div>
+    <div class="mono-txt"><div class="mono-title">Auzas</div>Auzām piemīt organisma spēcinoša un vielmaiņu uzlabojoša iedarbība. Tās  tonizē, stabilizē un spēcina organismu, rosina ēstgribu, pazemina cukura līmeni, mazina atkarību no nikotīna un narkotiskajām vielām.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/abolmetra.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Ābolmētra</div>Ēstgribas veicināšanai, nomierinoša, uzlabo asinsriti, maigāka garša nekā piparmētrai, mazāk mentola.</div>
+    <div class="mono-txt"><div class="mono-title">Ābolmētra</div>Ābolmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs, gremošanas uzlabošanai. Tā noņem spazmas kuņģī un zarnās, stimulē žults izdalīšanos, novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena Ābolmētrai maigāka garša nekā piparmētrai, jo tā satur mazāk mentola.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/balta_panatre.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Baltā panātre</div>Mēnešreižu regulēšanai, pret baltiem ziediem, pretklepus, pretiekaisuma.</div>
+    <div class="mono-txt"><div class="mono-title">Baltā panātre</div>Baltajai panātrei piemīt savelkoša, pretiekaisuma, pretalerģiska un tonizējoša iedarbība. Panātres nomierina centrālo nervu sistēmu, stimulē dzemdes kontrakcijas, pazemina cukura līmeni asinīs. Tēju lieto pret baltajiem ziediem, dzemdes asiņošanu, mēnešreižu traucējumiem. Tā palīdz  urīnpūšļa, urīnvadu, nieru bļodiņu iekaisumu un bezmiega gadījumos.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/berzu_lapas.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Bērzu lapas</div>Organisma tīrīšanai, urīndzenošsa, nierakmeņu šķīdināšanai.</div>
+    <div class="mono-txt"><div class="mono-title">Bērzu lapas</div>Baltajai panātrei piemīt savelkoša, pretiekaisuma, pretalerģiska un tonizējoša iedarbība. Panātres nomierina centrālo nervu sistēmu, stimulē dzemdes kontrakcijas, pazemina cukura līmeni asinīs. Tēju lieto pret baltajiem ziediem, dzemdes asiņošanu, mēnešreižu traucējumiem. Tā palīdz  urīnpūšļa, urīnvadu, nieru bļodiņu iekaisumu un bezmiega gadījumos.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/gailbiksites.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Gaiļbiksītes ziedi</div>Vitamīni, organisma stiprināšanai, klepus, nomierinoša.</div>
+    <div class="mono-txt"><div class="mono-title">Gaiļbiksītes ziedi</div>Gaiļbiksītēm piemīt nomierinoša, pretklepus, pretiekaisuma un sviedrējoša iedarbība. Tēja noder trahejas un bronhu iekaisumu ārstēšanai, lai mīkstinātu klepu, samazinātu kairinājuma un sausuma sajūtu elpceļos. Tā palīdz arī pie migrēnas veida galvassāpēm, nervozitātes un bezmiega. Gaiļbiksīšu lapas ir lielisks vitamīnu avots, kas palīdz organisma stiprināšanai.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/kakumetra.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Kaķumētra</div>Izmanto gremošanas un kuņģa darbības uzlabošanai, novērš vēdera uzpūšanos un sāpes menstruāciju laikā. Piemīt nomierinoša iedarbība bezmiega, nervozitātes, histērijas, melanholijas gadījumos. Īpaši piemērota maziem bērniem kā nomierinošs līdzeklis.</div>
+    <div class="mono-txt"><div class="mono-title">Kaķumētra</div>Kaķumētrai piemīt nomierinoša, gremošanu viecinoša iedarbība. To izmanto kuņģa darbības uzlabošanai. Tēja palīdz gāzu izdalīšanai,  Kaķumētrai piemīt nomierinoša iedarbība bezmiega, nervozitātes, histērijas, melanholijas gadījumos. Tā īpaši piemērota maziem bērniem kā nomierinošs līdzeklis.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/klingerite.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Kliņģerītes</div>Gremošanas veicināšanai, organisma attīrīšanai, klepus, saaukstēšanās, asinsspiediena pazemināšanai, pret sāpīgām mēnešreizēm.</div>
+    <div class="mono-txt"><div class="mono-title">Kliņģerītes</div>Kliņģerītēm piemīt nomierinoša, spazmolītiska, asinsspiedienu pazeminoša, antihemorāģiska pretiekaisuma un brūces dziedējoša iedarbība. Kliņģerītes stimulē sirdsdarbību, padziļina elpošanu. Tēju izmanto gastrīta, kuņģa un divpadsmitpirkstu zarnas ārstēšanai. Tās veicina žults sekrēciju, palīdz aknu, žultsceļu un žultspūšļa iekaisuma gadījumā, samazina ginekoloģiska rakstura sāpes, regulē mēnešreizes. Ziedu pulveris gremošanas trakta audzēja gadījumā samazina intoksikāciju, mazina sliktu dūšu, uzlabo apetīti un miegu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/kumelite.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Kumelītes</div>Pretsāpju, nomierinoša, dezinficēšanai, gremošanai.</div>
+    <div class="mono-txt"><div class="mono-title">Kumelītes</div>Kumelītēm piemīt pretiekaisuma, brūces dziedinoša un gremošanas sistēmas darbības uzlabojoša iedarbība. Kumelītes tēju lieto kā vieglu žultsdzinēju, vēdera mīkstināšanas līdzekli, kā arī, ja ir sāpes un kolikas zarnu traktā, īpaši zīdaiņiem un maziem bērniem. Koncentrēts uzlējums palīdz kuņģa un divpadsmitpirkstu zarnas čūlas ārstēšanai, bet kumelītes kopā ar pelašķiem lieto menstruālo sāpju gadījumā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/lazdu_miza.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Lazdu miza</div>Tonizē vēnas, novērš kapilāru plīšanu, pretiekaisumu iedarbība, mazina rīta tūskas, pazemina asinsspiedienu.</div>
+    <div class="mono-txt"><div class="mono-title">Lazdu miza</div>Lazdu miza tonizē vēnas, novērš kapilāru plīšanu, samazina iekaisumus asinsvados, tā mazina rīta tūskas un pazemina asinsspiedienu. Lazdu mizu tēju, lietojot ilgstoši, samazinās holesterīna līmenis un ar to saistītā aterosklerozes veidošanās, mazinās iespēja piedzīvot infarktu un insultu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/liela_celteka.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Lielā ceļteka</div>Asins attīrīšanai arī ķīmijterapijas laikā, klepus, kuņģa skābes neitralizēšanai, aknu un žultspūšļa slimībām.</div>
+    <div class="mono-txt"><div class="mono-title">Lielā ceļteka</div>Ceļtekai piemīt pretiekaisuma, sekretora, baktericīda un spazmolītiska iedarbība. Ceļteku tēju lieto kā atkrēpošanu veicinošu līdzekli bronhīta un garā klepus gadījumā. Tā palīdz nieru, urīnpūšļa iekaisuma, kā arī nakts slapināšanas gadījumā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/liela_natre.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Lielā nātre</div>Vitamīnu, asinsvadu sašaurināšanai, dzelzs avots, asins sastāva uzlabošanai, klimaksam, impotencei, vielmaiņas uzlabošana.</div>
+    <div class="mono-txt"><div class="mono-title">Lielā nātre</div>Nātrei piemīt asiņošanu apturoša un pretiekaisuma iedarbība. Nātres palīdz dzelzs deficīta, mazasinības, žultspūšļa iekaisuma, gastrīta, kuņģa un divpadsmitpirkstu zarnas čūlas un ateresklertozes gadījumā. Nātres sašaurina asinsvadus, sekmē audu atjaunošanos, stimulē eritrocītu veidošanos, novērš urinēšanas traucējumus.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/liepziedi.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Liepziedi</div>Saaukstēšanās, klepus, sviedrējoši, galvassāpēm.</div>
+    <div class="mono-txt"><div class="mono-title">Liepziedi</div>Liepziediem piemīt sviedrējoša, mīkstinoša un elpceļus dziedējoša iedarbība. Liepziedu tēju lieto saaukstēšanās, augšējo elpceļu iekaisuma, angīnas, bronhītu ārstēšanai, kā arī pret klepu, uzbudinājumu, galvassāpēm. Tā labi noder, lai sasildītos rudenī un ziemā pēc darba vai pastaigas, tā ir laba pirtī, jo kā neviena cita, veicina svīšanu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/melisa.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Melisa</div>Nomierinoša, mazina vēdera pūšanos, organisma attīrīšanai.</div>
+    <div class="mono-txt"><div class="mono-title">Melisa</div>Melisai piemīt nomierinoša, antidepresīva, spazmolītiska, un asinsspiedienu samazinoša iedarbība. Melisas tēja lieto pret neirozēm, histēriju, migrēnu, bezmiegu, paaugstinātu asinsspiedienu, tā mazina galvas reiboņus, troksni ausīs, paaugstinātu dzimumtieksmi. Kādu laiku lietojot šo tēju, cilvēkam rodas vēlme kļūt veselam.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/melnais_pluskoks.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Melnais plūškoks</div>Pretvīrusu, klepus, saaukstēšanās.</div>
+    <div class="mono-txt"><div class="mono-title">Melnais plūškoks</div>Plūškokam piemīt sviedrējoša un organismu spēcinoša iedarbība. Plūškoka ziedu tēju lieto gripas, saaukstēšanās, plaušu un sirds slimību izraisītas tūskas gadījumā. Plūškoks paaugstina organisma aizsargspējas pret vīrusu izraisītām infekcijām.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/meza_avenes.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Meža avenes</div>Imunitātei, saaukstēšanās, sviedrējoša.</div>
+    <div class="mono-txt"><div class="mono-title">Meža avenes</div>Avenēm piemīt sviedrējoša, pretiekaisuma un vielmaiņu uzlabojoša iedarbība. Aveņu tēja veicina gremošanas trakta orgānu darbību, remdē slāpes, uzlabo zāļu garšu. Aveņu augļus un lapas lieto pret saaukstēšanos kā sviedrējošu un temperatūru pazeminošu līdzekli gripas, augšējo elpceļu iekaisuma, kā arī hroniska reimatisma gadījumā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/moldavijas_pukgalve.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Moldāvijas pūķgalve</div>Stipra, citronam līdzīga smarža, augs nesatur mentolu. Mazina stresu, uztraukumu, palīdz atjaunot spēkus, veicina gremošanu un žults izdalīšanos. Var pievienot salātiem, kā arī izmantot dzērienu aromatizēšanai.</div>
+    <div class="mono-txt"><div class="mono-title">Moldāvijas pūķgalve</div>Pūkgalvei piemīt nomierinoša, organismu stiprinoša un gremošanu veicinoša iedarbība. Tai piemīt stipra, citronam līdzīga smarža, augs nesatur mentolu. Pūķgalves tēja mazina stresu, uztraukumu, palīdz atjaunot spēkus, veicina žults izdalīšanos. Pūķgalvi lietot kā garšvielu, pievienjot to  salātiem, kā arī izmantot dzērienu aromatizēšanai.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/mallepes.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Māllēpes</div>Klepus, angīna, saaukstēšanās.</div>
+    <div class="mono-txt"><div class="mono-title">Māllēpes</div>Māllēpēm piemīt pretiekaisuma, pretklepus, sedzoša un sviedrējoša iedarbība. Māllēpju tēja sekmē krēpu sašķidrināšanos un izdalīšanos, novērš kairinājumu, remdē klepus lēkmes naktīs. Tās lieto pret sausu klepu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/marsils.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Mārsils</div>Pret klepu, veicina atkrēpošanu, gremošanas veicināšanai, samazina gāzu izdalīšanos.</div>
+    <div class="mono-txt"><div class="mono-title">Mārsils</div>Mārsilam piemīt dezinficējoša, sekretolītiska, atkrēpošanu veicinoša, spazmolītiska un pretiekaisuma iedarbība. Mārsils tonizē un paceļ garastāvokli. Mārsilu tēju lieto augšējo elpceļu iekaisuma un bronhīta ārstēšanai. To izmanto ēstgribas veicināšanai, pret gāzu veidošanos, caureju un kuņģa čūlu. Lieto arī kā garšvielu zupām un  gaļas ēdieniem.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/pelaski.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Pelašķi</div>Saaukstēšanās, gremošanas veicināšanai, cukura līmeņa samazināšanai, pret alerģiju.</div>
+    <div class="mono-txt"><div class="mono-title">Pelašķi</div>Pelašķim piemīt asiņošanu apturoša, pretiekaisuma, bakterocīda un antialerģiska iedarbība. Pelašķu tēja rosina ēstgribu un gremošanas sulu sekrēciju, novērš spazmas un gāzu uzkrāšanos, pazemina temperatūru un asinsspiedienu, savelk dzemdes muskulatūru, aptur asiņošanu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/piparmetra.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Piparmētra</div>Ēstgribas veicināšanai, nomierinoša, uzlabo asinsriti.</div>
+    <div class="mono-txt"><div class="mono-title">Piparmētra</div>Piparmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Piparmētru tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs; gremošanas uzlabošanai; tā noņem spazmas kuņģī un zarnās, novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena samazināšanai.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/priezu_pumpuri.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Priežu pumpuri</div>Klepus, pretvīrusu, urīndzenošs.</div>
+    <div class="mono-txt"><div class="mono-title">Priežu pumpuri</div>Priedēm piemīt pretiekaisuma, baktericīda un bronholītiska iedarbība. Priežu pumpuru novārījumu lieto saaukstēšanās slimību, augšējo elpceļu iekaisuma, bronhīta gadījumā. Lieto arī inhalācijām.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/rasaskreslini.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Rasaskrēsliņi</div>Asins attīrīšanai un stiprināšanai, sievietes veselībai, klepum, pretiekaisuma.</div>
+    <div class="mono-txt"><div class="mono-title">Rasaskrēsliņi</div>Rasaskrēsliņiem ir savelkoša, asiņošanu apturoša, pretiekaisuma, urīndzenoša, atkrēpošanu veicinoša iedarbība. Rasaskrēsliņu tēju lieto, lai uzlabotu vielmaiņu, attīrītu organismu un regulētu menstruālo ciklu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/raudene.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Raudene</div>Nomierinoša, sievietes veselībai, garšviela.</div>
+    <div class="mono-txt"><div class="mono-title">Raudene</div>Raudenei piemīt nomierinoša, pretsāpju, pretiekaisuma un gremošanu veicinoša iedarbība. Raudenes lieto kuņģa spazmu, zarnu iekaisuma, aizcietējuma un gāzu uzkrāšanās gadījumā, kā arī bronhīta un sāpīgu mēnešreižu ārstēšanai. To lieto arī kā garšvielu svaigu dārzeņu, kartupeļu pākšaugu un gaļas ēdienos.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/salvija.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Salvija</div>Gāzes mazinošā, pretiekaisuma, pretmikrobu, pretsēnīšu, antialerģiskā, svīšanu un laktācijas intensitāti mazinoša, antioksidanta darbība.</div>
+    <div class="mono-txt"><div class="mono-title">Salvija</div>Salvijai piemīt spazmolītiska, pretiekaisuma un savelkoša iedarbība. Salviju tēja noder kuņģa, žultspūšļa un zarnu iekaisuma gadījumos. Tā samazina svīšanu naktī un sievietēm klimaksa laikā. Salvijas mazina piena sekrēciju. Veciem cilvēkiem tā uzlabo atmiņu, roku drebēšanu un tūsku. Salvijas lapas var lietot kā garšvielu pie gaļas, zivju ēdieniem un mērcēm.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/sarkanais_abolins.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Sarkanais āboliņš</div>Holesterīna samazināšanai, pret saaukstēšanos un klepu.</div>
+    <div class="mono-txt"><div class="mono-title">Sarkanais āboliņš</div>Āboliņam piemīt antiskrelotiska, atkrēpošanu veicinoša un vielmaiņu uzlabojoša iedarbība. Tas kavē holesterīna uzkrāšanos asinsvados, sekmē slāpekļa vielmaiņas produktu izvadīšanu no organisma ar urīnu. Āboliņa tēja paaugstina organisma izturību pret infekcijas slimībām un kavē ļaundabīgo audzēju attīstību. Tēju lieto arī kā atkrēpošanas līdzekli klepus, bronhīta, bronhiālās astmas ārstēšanai, urīnpūšļa un prostatas iekaisuma mazināšanai.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/sirds_matere.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Sirds mātere</div>Sirds ritma regulēšanai, pret paaugstinātu asinsspiedienu.</div>
+    <div class="mono-txt"><div class="mono-title">Sirds mātere</div>Māterei piemīt nomierinoša, spazmolītiska, hipotensīva un sirdsdarbību regulējoša iedarbība. Māteri izmanto sirds ritma regulēšanai, pret bezmiegu, spriedzes un stresa gadījumos, kā asinsspiedienu samazinošu līdzekli.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/smiltserkski.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Smiltsērkšķu lapas</div>Samazina holesterīnu un aptaukošanos, lieto cukura diabēta, kuņģa čūlas, saaukstēšanās un anēmijas gadījumos.</div>
+    <div class="mono-txt"><div class="mono-title">Smiltsērkšķu lapas</div>Smiltsērkšķim piemīt pretiekaisuma un ādas atjaunošanos veicinoša iedarbība. Smiltsērkšķu lapu tēju lieto organisma stiprināšanai, pret mazasinību, nogurumu, kuņģa sāpēm.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/tiruma_kosa.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Tīruma kosa</div>Urīndzenoša, attīroša, urīnceļu iekaisumu, tūskas ārstēšanai, asins sastāva uzlabošanai.</div>
+    <div class="mono-txt"><div class="mono-title">Tīruma kosa</div>Kosai piemīt asiņošanu apturoša, diurētiska un pretiekaisuma iedarbība. Tā pazemina asinsspiedienu un tūsku, kas rodas nieru vai sirds mazspējas dēļ. Tēja veicina smago metālu izvadīšanu no organisma, saista toksīnus un brīvos radikāļus. Kosu lieto bērniem pret slapināšanu gultā, urīnceļu un urīnpūšļa iekaisumu un priekšdziedzera palielināšanās gadījumā. Veciem cilvēkiem lieto atereskrelozes, sirds un galvas smadzeņu asinsvadu skrelozes gadījumā. Lieto arī dzemdes un hemoroīdu asiņošanas apturēšanai. Kosa mazina locītavu sāpes artrīta un podagras gadījumā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/ugunspuke.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Ugunspuķe</div>Imunitātei, asins sastāva uzlabošana, gremošanas veicināšana, nomierinoša.</div>
+    <div class="mono-txt"><div class="mono-title">Ugunspuķe</div>Ugunspuķei piemīt nomierinoša, pretiekaisuma un organismu aizsargspējas paaugstinoša iedarbība. Ugunspuķes tēja mazina spazmas, sekmē žults sekrēciju, paaugstina imunitāti. Ugunspuķei piemīt arī pretvēža aktivitāte. Ugunspuķes ir laba ikdienas tēja.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/udensmetra.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Ūdens piparmētra</div>Ēstgribas veicināšanai, nomierinoša, uzlabo asinsriti, maigāka garša nekā piparmētrai.</div>
+    <div class="mono-txt"><div class="mono-title">Ūdens piparmētra</div>Piparmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Piparmētru tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs; gremošanas uzlabošanai; tā noņem spazmas kuņģī un zarnās, novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena samazināšanai. Ūdens piparmētras garša ir maigāka un mentols nekož acīs.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vilkabele.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Vilkābele</div>Nomierinoša, samazina asinsspiedienu, sirds veselībai.</div>
+    <div class="mono-txt"><div class="mono-title">Vilkābele</div>Vilkābelēm piemīt sirdsdarbību stimulējoša, asinsvadus paplašinoša un antioksidējoša iedarbība. Vilkābeles pazemina asinsspiedienu un uzlabo asins cirkulāciju. Tās noderīgas bezmiega un nervozitātes mazināšanai. Tās lieto arī nieru iekaisuma, nierakmeņu un urīnceļu akmeņu gadījumā kā diurētisku līdzekli.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/virsi.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Virši</div>Urīndzenoša, pret­iekaisuma, atkrēpošanu veicinoša, antibakteriāla un pretreimatiska iedarbība, nedaudz pazemina asinsspiedienu, nomierina un uzlabo miega kvalitāti. Ieteicami nieru un urīnceļu iekaisumu, gastrīta ārstēšanai.</div>
+    <div class="mono-txt"><div class="mono-title">Virši</div>Viršiem piemīt urīndzenoša, pretiekaisuma un nomierinoša iedarbība. Viršus lieto, ja ir nieru iekaisums, nierakmeņi, žultsakmeņi, urīnizvadsistēmas iekaisums, tūska, gastrīts, paaugstināts skābes daudzums kuņģa sulā. Tos lieto arī podagras, reimatisma, kuņģa un zarnu iekaisuma, caurejas ārstēšanai. Tēja noder, lai mazinātu uzbudinājumu, nervu spriedzi, uzlabotu miegu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vibotne.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Vībotne</div>Nomierinoša, gremošanas veicināšana, garšviela.</div>
+    <div class="mono-txt"><div class="mono-title">Vībotne</div>Vībotnēm piemīt antiseptiska, pretiekaisuma, temperatūru pazeminoša un nomierinoša iedarbība. Vībotnes rosina ēstgribu, uzlabo gremošanas sistēmas darbību, noder, ja ir nekārtīgas mēnešreizes. Tās noderīgas arī nierakmeņu, urīnpūšļa akmeņu, bezmiega un nervozitātes gadījumā.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vigriezes.jpg"></div>
-    <div class="mono-txt"><div class="mono-title">Vīgrieze</div>Organisma attīrīšanai, nomierinoša, saaukstēšanās, pret stresa radītām galvassāpēm.</div>
+    <div class="mono-txt"><div class="mono-title">Vīgrieze</div>Vīgriezēm piemīt pretiekaisuma, urīndzenoša, sviedrējoša un nomirinoša iedarbība. Tās uzlabo gremošanu un vielmaiņu, stabilizē organismu stresa situācijās. Vīgriežu tēja paplašina sirds un galvas asinsvadus, tāpēc ieteicama skolēniem eksāmenu laikā. Tā pazemina asinsspiedienu. Vīgriežu tēju lieto arī nieru un urīnpūšļa slimību, tūskas, reimatisma, podagras un saaukstēšanās ārstēšanai.</div>
 </div>

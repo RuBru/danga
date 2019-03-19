@@ -285,7 +285,7 @@ footer {
 }
 
 .mono-pic img {
-	max-width: 100px;
+	max-width: 150px;
 	overflow: hidden;
 	margin: auto;  /* Magic! */
 	align-self: flex-start;
@@ -299,7 +299,7 @@ footer {
 }
 
 .mono-txt {
-	flex-basis: 80%;
+	flex-basis: 70%;
 	text-align: justify;
 	margin: auto;  /* Magic! */
 }

@@ -299,7 +299,7 @@ footer {
 }
 
 .mono-txt {
-	flex-basis: 70%;
+	flex-basis: 75%;
 	text-align: justify;
 	margin: auto;  /* Magic! */
 }

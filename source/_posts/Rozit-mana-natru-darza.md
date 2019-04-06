@@ -4,8 +4,7 @@ id: rozu
 image: images//mix/rozu.jpg
 tags: mix
 ---
-*Rozīt' mana nātru dārzā
-Tēja organisma stiprināšanai un romantiskam noskaņojumam. Īpaši piemērota piparmētras garšas un rožu smaržas tīksmotājiem.*
+*Tēja organisma stiprināšanai un romantiskam noskaņojumam. Īpaši piemērota piparmētras garšas un rožu smaržas tīksmotājiem.*
 
 **Sastāvs:**
 Ūdens piparmētra – nomierina, dod atsvaidzinošu garšu;

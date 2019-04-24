@@ -147,3 +147,9 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iesp�
     <div class="mono-pic"><img src="../images/mono/vigriezes.jpg"></div>
     <div class="mono-txt"><div class="mono-title">Vīgrieze</div>Vīgriezēm piemīt pretiekaisuma, urīndzenoša, sviedrējoša un nomirinoša iedarbība. Tās uzlabo gremošanu un vielmaiņu, stabilizē organismu stresa situācijās. Vīgriežu tēja paplašina sirds un galvas asinsvadus, tāpēc ieteicama skolēniem eksāmenu laikā. Tā pazemina asinsspiedienu. Vīgriežu tēju lieto arī nieru un urīnpūšļa slimību, tūskas, reimatisma, podagras un saaukstēšanās ārstēšanai.</div>
 </div>
+<hr>
+Tēju aprakstos izmantotā informācija par augu ietekmi uz cilvēki organismu ņemta no šādiem literatūras avotiem:
+
+Artūrs Tereško, "Dieva dārza ārstniecības augi", <i>Talsu tipogrāfija</i> (2014).
+Helēna Rubine, Vija Eniņa, "Ārstniecības augi", <i>Zvaigzne ABC</i> (2010).
+Niko Fermēlens, "Derīgie augi – Enciklopēdija", <i>Zvaigzne ABC</i> (2003).

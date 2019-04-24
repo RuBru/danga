@@ -7,6 +7,6 @@ tags: mix
 *Tēja organisma stiprināšanai un romantiskam noskaņojumam. Īpaši piemērota piparmētras garšas un rožu smaržas tīksmotājiem.*
 
 **Sastāvs:**
-Ūdens piparmētra – nomierina, dod atsvaidzinošu garšu;
+<a href="https://www.danga.lv/mono/#Udens_piparmetra">Ūdens piparmētra</a> – nomierina, dod atsvaidzinošu garšu;
 Rožu ziedlapiņas – palielina organisma aizsargspējas;
-Lielās nātres – sekmē audu atjaunošanos, bagātina organismu ar minerālvielām.
+<a href="https://www.danga.lv/mono/#Liela_natre">Lielā nātre</a> – sekmē audu atjaunošanos, bagātina organismu ar minerālvielām.

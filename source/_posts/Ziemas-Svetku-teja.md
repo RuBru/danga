@@ -9,9 +9,9 @@ image: images/mix/ziemas_svetku.jpg
 **Sastāvs:**
 Āboli – bagātina organismu ar minerālvielām un vitamīniem, dod patīkamu garšu;
 Dzērvenes – bagātina organismu ar vitamīniem;
-Avenes – atsvaidzina, stiprina organismu, remdē slāpes;
-Ūdens piparmētra – nomierina, veicina gremošanu, uzlabo garšu;
-Upenes – paaugstina organisma aizsargspējas;
-Pelašķi – rosina ēstgribu un gremošanas sulu sekrēciju;
+<a href="https://www.danga.lv/mono/#Meza_avenes">Meža avenes</a> – atsvaidzina, stiprina organismu, remdē slāpes;
+<a href="https://www.danga.lv/mono/#Udens_piparmetra">Ūdens piparmētra</a> – nomierina, veicina gremošanu, uzlabo garšu;
+Upeņu lapas – paaugstina organisma aizsargspējas;
+<a href="https://www.danga.lv/mono/#Pelaski">Pelašķi</a> – rosina ēstgribu un gremošanas sulu sekrēciju;
 Amarants – veicina asiņu bagātināšanos ar skābekli;
 Samtenes – piedod citrusa garšu.

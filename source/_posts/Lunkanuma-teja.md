@@ -7,9 +7,9 @@ image: images/mix/lunkanums.jpg
 *Tēja organisma attīrīšanai un vielmaiņas veicināšanai. Tā kavē sāļu uzkrāšanos locītavās, kā arī izvada toksīnus.*
 
 **Sastāvs:** 
-Vīgriezes – uzlabo vielmaiņu, mazina tūsku;
+<a href="https://www.danga.lv/mono/#Vigriezes">Vīgriezes</a> – uzlabo vielmaiņu, mazina tūsku;
 Kazenes – attīra organismu, veicina urīna izvadīšanu;
-Bērzu lapas – ārstē urīnizvadsistēmas iekaisumus un palīdz  pret nierakmeņiem;
+<a href="https://www.danga.lv/mono/#Berzu_lapas">Bērzu lapas</a> – ārstē urīnizvadsistēmas iekaisumus un palīdz  pret nierakmeņiem;
 Maura sūrene – attīra un spēcina organismu;
-Lielā nātre – sekmē audu atjaunošanos, palīdz pret mazasinību;
+<a href="https://www.danga.lv/mono/#Liela_natre">Lielā nātre</a> – sekmē audu atjaunošanos, palīdz pret mazasinību;
 Mārpuķītes – attīra organismu, veicina urīna izvadīšanu, stimulē žultspūšļa darbību.

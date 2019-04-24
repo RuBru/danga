@@ -8,8 +8,8 @@ tags: mix
 
 **Sastāvs:**
 Zvērene – tonizē, novērš miegainību;
-Auzas – uzlabo vielmaiņu, atmodina gremošanas sistēmu;
-Melisa – uzlabo garšu, palīdz cīņā ar depresiju, pazemina asinsspiedienu;
-Asinszāle – uzlabo pašsajūtu un garastāvokli;
+<a href="https://www.danga.lv/mono/#Auzu_skaras">Auzu skaras</a> – uzlabo vielmaiņu, atmodina gremošanas sistēmu;
+<a href="https://www.danga.lv/mono/#Melisa">Melisa</a>Melisa – uzlabo garšu, palīdz cīņā ar depresiju, pazemina asinsspiedienu;
+<a href="https://www.danga.lv/mono/#Asinszale">Asinszāle</a> – uzlabo pašsajūtu un garastāvokli;
 Jasmīns – enerģētiski sakārto organismu;
-Lielā nātre – bagātina organismu ar minerālvielām, sekmē audu atjaunošanos.
+<a href="https://www.danga.lv/mono/#Liela_natre">Lielā nātre</a> – bagātina organismu ar minerālvielām, sekmē audu atjaunošanos.

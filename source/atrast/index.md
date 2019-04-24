@@ -66,7 +66,7 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
 </script>
 
 <hr class ="mt-5 mb-5">
-<div class ="post-page text-center"><h3>Kontakti</h3></div>
+<div class ="post-page text-center"><h3 id="Kontakti">Kontakti</h3></div>
 <p>Aija Brūna
 aija.bruna<span style="display:none">foo</span>@inbox.lv
 Dārza gatve 4, Kazdanga,

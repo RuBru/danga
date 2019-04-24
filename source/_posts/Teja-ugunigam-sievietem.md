@@ -8,8 +8,8 @@ image: images/mix/ugunigam_sievietem.jpg
 
 **Sastāvs:**
 Izops – paaugstina asinsspiedienu, novērš dzimumtieksmi;
-Salvija – samazina svīšanu sievietēm menopauzē;
-Rasaskrēsliņi – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
-Ugunspuķe – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
-Kliņģerītes – nomierina, mazina iekaisumus;
-Apiņi – nomierina, satur sievišķo hormonu – estrogēnu.
+<a href="https://www.danga.lv/mono/#Salvija">Salvija</a> – samazina svīšanu sievietēm menopauzē;
+<a href="https://www.danga.lv/mono/#Rasaskreslini">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
+<a href="https://www.danga.lv/mono/#Ugunspuke">Ugunspuķe</a> – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
+<a href="https://www.danga.lv/mono/#Klingerites">Kliņģerītes</a> – nomierina, mazina iekaisumus;
+<a href="https://www.danga.lv/mono/#Apini">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu.

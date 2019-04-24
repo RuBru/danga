@@ -7,9 +7,9 @@ image: images/mix/balles_karaliene.jpg
 *Ikdienas tēja sievietes veselībai un pašlepnumam. Normalizē sievietes ikmēneša ciklu.*
 
 **Sastāvs:**
-Sarkanais āboliņš – uzlabo vielmaiņu, stimulē sievišķo dzimumhormonu veidošanos;
-Rasaskrēsliņi – attīra organismu, samazina asiņošanu un regulē menustrālo ciklu;
-Baltās panātres – ārstē baltos ziedus;
-Kliņģerītes – ārstē iekaisumus un samazina asinsspiedienu;
-Raudene – pret sāpīgām mēnešreizēm;
-Vībotnes – sakārto mēnešreizes un nomierina organismu.
+<a href="https://www.danga.lv/mono/#Sarkanais_abolins">Sarkanais āboliņš</a> – uzlabo vielmaiņu, stimulē sievišķo dzimumhormonu veidošanos;
+<a href="https://www.danga.lv/mono/#Rasaskreslini">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menustrālo ciklu;
+<a href="https://www.danga.lv/mono/#Balta_panatre">Baltā panātre</a> – ārstē baltos ziedus;
+<a href="https://www.danga.lv/mono/#Klingerites">Kliņģerītes</a> – ārstē iekaisumus un samazina asinsspiedienu;
+<a href="https://www.danga.lv/mono/#Raudene">Raudene</a> – pret sāpīgām mēnešreizēm;
+<a href="https://www.danga.lv/mono/#Vibotne">Vībotne</a> – sakārto mēnešreizes un nomierina organismu.

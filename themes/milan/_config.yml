@@ -2,9 +2,9 @@
 menu:
   Sākums: /
   Mono tējas: /mono
-  Par tējām: /about
-  Kur atrast: /contact
-header_text: Latvijas laukos vākta un audzēta tēja
+  Par tējām: /par
+  Kur atrast: /atrast
+header_text: Latvijas laukos vākta un audzēta zāļu tēja
 button_mix: Jauktās tējas
 button_mono: Mono tējas
 header_image: images/header.jpg

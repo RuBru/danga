@@ -1,7 +1,7 @@
 ---
-title: Kur atrast tējas?
+title: Kur atrast Dangas tējas?
 ---
-Dangas tējas iespējams iegādāties pirts lietu, garšvielu un citos vietējo ražotāju veikalos un tūrisma informācijas centros Daugavas kreisajā krastā. Regulāri braukājam arī pa gadatirgiem visā Kurzemē.
+Dangas zāļu tējas iespējams iegādāties pirts lietu, garšvielu un citos vietējo ražotāju veikalos un tūrisma informācijas centros Daugavas kreisajā krastā. Regulāri braukājam arī pa gadatirgiem visā Kurzemē.
 
 Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazdangā!
 

@@ -9,7 +9,7 @@ image: images/mix/ugunigam_sievietem.jpg
 **Sastāvs:**
 Izops – paaugstina asinsspiedienu, novērš dzimumtieksmi;
 Salvija – samazina svīšanu sievietēm menopauzē;
-Rasaskrēsliņi - attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
+Rasaskrēsliņi – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
 Ugunspuķe – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
 Kliņģerītes – nomierina, mazina iekaisumus;
 Apiņi – nomierina, satur sievišķo hormonu – estrogēnu.

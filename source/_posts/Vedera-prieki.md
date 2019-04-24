@@ -7,8 +7,8 @@ image: images/mix/vedera_prieki.jpg
 *Tēja gremošanas veicināšanai. Ieteicams lietot pēc smagiem ēdieniem.*
 
 **Sastāvs:**
-Auzas - uzlabo vielmaiņu, rosina ēstgribu;
-Piparmētras - noņem spazmas kuņģī un zarnās, novērš sliktu dūšu;
+Auzas – uzlabo vielmaiņu, rosina ēstgribu;
+Piparmētras – noņem spazmas kuņģī un zarnās, novērš sliktu dūšu;
 Dižzirdzene – sekmē žults sekrēciju un gāzu izvadīšanu;
 Pienene – darbojas pret pazeminātu skābes saturu kuņģī, gastrītu, aizcietējumiem;
 Vībotnes – rosina ēstgribu;

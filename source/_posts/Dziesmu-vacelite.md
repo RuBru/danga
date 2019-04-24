@@ -9,7 +9,7 @@ image: images/mix/dziesmu_vacelite.jpg
 **Sastāvs:**
 Gaiļbiksītes – mīkstina klepu;
 Ceļtekas – veicina atkrēpošanu;
-Māllēpes - sekmē krēpu sašķidrināšanos un izdalīšanos;
+Māllēpes – sekmē krēpu sašķidrināšanos un izdalīšanos;
 Upenes – paaugstina organisma aizsargspējas;
 Ugunspuķe –paaugstina imunitāti, uzlabo garšu;
 Pelašķi – novērš spazmas un pazemina temperatūru;

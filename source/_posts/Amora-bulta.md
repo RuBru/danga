@@ -12,4 +12,4 @@ lazdas – attīra asinsvadus;
 upenes – paaugstina organisma aizsargspējas; 
 kliņģerītes – ārstē iekaisumus un samazina asinsspiedienu;
 piparmētras – nomierina un uzlabo gremošanu, dod atsvaidzinošu garšu;
-jasmīni - enerģētiski sakārto organismu.
+jasmīni – enerģētiski sakārto organismu.

@@ -9,7 +9,7 @@ image: images/mix/cukurpasaka.jpg
 **Sastāvs:** 
 Mellenes – pazemina cukura līmeni;
 Smiltsērkšķi – stiprina organismu;
-Raudene –nomierina, dziedē iekaisumus, uzlabo garšu;
+Raudene – nomierina, dziedē iekaisumus, uzlabo garšu;
 Baltā panātre –pazemina cukura līmeni;
 Jasmīns – enerģētiski sakārto organismu;
 Maura sūrene – attīra un spēcina organismu.

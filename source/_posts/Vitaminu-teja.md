@@ -4,4 +4,10 @@ id: vitaminu_teja
 tags: mix
 image: images/mix/vitamini.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex nisl, pulvinar quis tristique facilisis, mattis hendrerit sem. Integer nec metus augue. In sed purus posuere, pretium diam a, gravida eros. Quisque diam ligula, interdum non odio vitae, sodales viverra ante. Aliquam sed dui quis mi bibendum convallis. Nullam a massa magna. Sed mattis, arcu ut facilisis tempor, arcu purus tristique justo, at tempor ligula justo non justo. Sed varius et mi in commodo.
+*Ikdienas tēja organisma stiprināšanai un attīrīšanai ar upeņu lapu atsvaidzinošo garšu un aromātu tējas pamatā.*
+
+**Sastāvs:**
+Upenes – paaugstina organisma aizsargspējas;
+Lielā nātre – sekmē audu atjaunošanos, palīdz pret mazasinību, bagātina organismu ar minerālvielām;
+Gaiļbiksītes – nomierina un stiprina organismu;
+Bērzu lapas – bagātina organismu ar vitamīniem, izvada toksīnus.

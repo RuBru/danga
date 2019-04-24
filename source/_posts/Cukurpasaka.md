@@ -8,8 +8,8 @@ image: images/mix/cukurpasaka.jpg
 
 **Sastāvs:** 
 Melleņu laksti – pazemina cukura līmeni;
-<a href="https://www.danga.lv/mono/#Smiltserksu_lapas">Smiltsērkšķu lapas</a> – stiprina organismu;
-<a href="https://www.danga.lv/mono/#Raudene">Raudene</a> – nomierina, dziedē iekaisumus, uzlabo garšu;
-<a href="https://www.danga.lv/mono/#Balta_panatre">Baltā panātre</a> – pazemina cukura līmeni;
+<a href="https://www.danga.lv/mono/#smiltserksu_lapas">Smiltsērkšķu lapas</a> – stiprina organismu;
+<a href="https://www.danga.lv/mono/#raudene">Raudene</a> – nomierina, dziedē iekaisumus, uzlabo garšu;
+<a href="https://www.danga.lv/mono/#balta_panatre">Baltā panātre</a> – pazemina cukura līmeni;
 Jasmīns – enerģētiski sakārto organismu;
 Maura sūrene – attīra un spēcina organismu.

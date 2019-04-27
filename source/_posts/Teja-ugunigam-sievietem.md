@@ -8,8 +8,8 @@ image: images/mix/ugunigam_sievietem.jpg
 
 **Sastāvs:**
 Izops – paaugstina asinsspiedienu, novērš dzimumtieksmi;
-<a href="https://www.danga.lv/mono/#salvija">Salvija</a> – samazina svīšanu sievietēm menopauzē;
-<a href="https://www.danga.lv/mono/#rasaskreslini">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
-<a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
-<a href="https://www.danga.lv/mono/#klingerites">Kliņģerītes</a> – nomierina, mazina iekaisumus;
-<a href="https://www.danga.lv/mono/#apini">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu.
+<a href="/mono/#salvija" target="_blank" rel="noopener noreferrer">Salvija</a> – samazina svīšanu sievietēm menopauzē;
+<a href="/mono/#rasaskreslini" target="_blank" rel="noopener noreferrer">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
+<a href="/mono/#ugunspuke" target="_blank" rel="noopener noreferrer">Ugunspuķe</a> – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
+<a href="/mono/#klingerites" target="_blank" rel="noopener noreferrer">Kliņģerītes</a> – nomierina, mazina iekaisumus;
+<a href="/mono/#apini" target="_blank" rel="noopener noreferrer">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu.

@@ -7,9 +7,9 @@ image: images/mix/merenibas.jpg
 *Tēja aknu veselībai un organisma tīrīšanai pēc medikamentu un alkohola lietošanas. Labākās zāles pret pārēšanos ir mērenība!*
 
 **Sastāvs:**
-<a href="https://www.danga.lv/mono/#udens_piparmetra">Ūdens piparmētra</a> – uzlabo gremošanu, noņem spazmas, uzlabo garšu;
+<a href="/mono/#udens_piparmetra" target="_blank" rel="noopener noreferrer">Ūdens piparmētra</a> – uzlabo gremošanu, noņem spazmas, uzlabo garšu;
 Mārdadzis – stimulē aknu šūnu atjaunošanos;
-<a href="https://www.danga.lv/mono/#moldavijas_pukgalve">Moldāvijas pūķgalve</a> – mazina stresu, veicina žults izdalīšanos;
+<a href="/mono/#moldavijas_pukgalve" target="_blank" rel="noopener noreferrer">Moldāvijas pūķgalve</a> – mazina stresu, veicina žults izdalīšanos;
 Ancīši – palīdz izvarīties no audzēju veidošanās, ārstē aknu slimības;
-<a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – paaugstina imunitāti, samazina spazmas;
-<a href="https://www.danga.lv/mono/#tiruma_kosa">Tīruma kosa</a> – izvada toksīnus no organisma.
+<a href="/mono/#ugunspuke" target="_blank" rel="noopener noreferrer">Ugunspuķe</a> – paaugstina imunitāti, samazina spazmas;
+<a href="/mono/#tiruma_kosa" target="_blank" rel="noopener noreferrer">Tīruma kosa</a> – izvada toksīnus no organisma.

@@ -8,6 +8,6 @@ image: images/mix/vitamini.jpg
 
 **Sastāvs:**
 Upeņu lapas – paaugstina organisma aizsargspējas;
-<a href="https://www.danga.lv/mono/#liela_natre">Lielā nātre</a> – sekmē audu atjaunošanos, palīdz pret mazasinību, bagātina organismu ar minerālvielām;
-<a href="https://www.danga.lv/mono/#gailbiksites">Gaiļbiksītes</a> – nomierina un stiprina organismu;
-<a href="https://www.danga.lv/mono/#berzu_lapas">Bērzu lapas</a> – bagātina organismu ar vitamīniem, izvada toksīnus.
+<a href="/mono/#liela_natre" target="_blank" rel="noopener noreferrer">Lielā nātre</a> – sekmē audu atjaunošanos, palīdz pret mazasinību, bagātina organismu ar minerālvielām;
+<a href="/mono/#gailbiksites" target="_blank" rel="noopener noreferrer">Gaiļbiksītes</a> – nomierina un stiprina organismu;
+<a href="/mono/#berzu_lapas" target="_blank" rel="noopener noreferrer">Bērzu lapas</a> – bagātina organismu ar vitamīniem, izvada toksīnus.

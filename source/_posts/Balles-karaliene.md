@@ -7,9 +7,9 @@ image: images/mix/balles_karaliene.jpg
 *Ikdienas tēja sievietes veselībai un pašlepnumam. Normalizē sievietes ikmēneša ciklu.*
 
 **Sastāvs:**
-<a href="https://www.danga.lv/mono/#sarkanais_abolins">Sarkanais āboliņš</a> – uzlabo vielmaiņu, stimulē sievišķo dzimumhormonu veidošanos;
-<a href="https://www.danga.lv/mono/#rasaskreslini">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menustrālo ciklu;
-<a href="https://www.danga.lv/mono/#balta_panatre">Baltā panātre</a> – ārstē baltos ziedus;
-<a href="https://www.danga.lv/mono/#klingerites">Kliņģerītes</a> – ārstē iekaisumus un samazina asinsspiedienu;
-<a href="https://www.danga.lv/mono/#raudene">Raudene</a> – pret sāpīgām mēnešreizēm;
-<a href="https://www.danga.lv/mono/#vibotne">Vībotne</a> – sakārto mēnešreizes un nomierina organismu.
+<a href="/mono/#sarkanais_abolins" target="_blank" rel="noopener noreferrer">Sarkanais āboliņš</a> – uzlabo vielmaiņu, stimulē sievišķo dzimumhormonu veidošanos;
+<a href="/mono/#rasaskreslini" target="_blank" rel="noopener noreferrer">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menustrālo ciklu;
+<a href="/mono/#balta_panatre" target="_blank" rel="noopener noreferrer">Baltā panātre</a> – ārstē baltos ziedus;
+<a href="/mono/#klingerites"  target="_blank" rel="noopener noreferrer">Kliņģerītes</a> – ārstē iekaisumus un samazina asinsspiedienu;
+<a href="/mono/#raudene" target="_blank" rel="noopener noreferrer">Raudene</a> – pret sāpīgām mēnešreizēm;
+<a href="/mono/#vibotne" target="_blank" rel="noopener noreferrer">Vībotne</a> – sakārto mēnešreizes un nomierina organismu.

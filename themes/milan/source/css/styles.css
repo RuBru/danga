@@ -29,7 +29,7 @@ p {
 }
 
 p a {
-	border-bottom: 1px dotted #555;
+	border-bottom: 1px dashed #555;
 }
 
 p a:hover {

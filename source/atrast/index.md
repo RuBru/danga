@@ -48,9 +48,6 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
     var marker = L.marker([56.50771, 21.01234], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Liepājas reģiona tūrisma informācijas birojs </b><br>Liepāja, Rožu laukums 5/6").openPopup();
-    var marker = L.marker([56.65179, 23.72519], {riseOnHover: true
-    }).addTo(mymap);
-        marker.bindPopup("<b>Kiwi</b><br>Jelgava, Lielā iela 7 no Katoļu ielas puses").openPopup();
     var marker = L.marker([57.39758, 21.56631], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Amatu māja</b><br>Ventspils, Skolas iela 3").openPopup();

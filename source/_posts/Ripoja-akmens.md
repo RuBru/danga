@@ -4,7 +4,7 @@ id: ripoja_akmens
 tags: mix
 image: images/mix/ripoja_akmens.jpg
 ---
-*Tēja organisma tīrīšanai nierakmeņu šķīdināšanai un izvadīšanai.*
+*Tēja organisma tīrīšanai, nierakmeņu šķīdināšanai un izvadīšanai.*
 
 **Sastāvs:**
 <a href="https://www.danga.lv/mono/#raudene">Raudene</a> – ārstē gremošanas sistēmas iekaisumus, uzlabo garšu;

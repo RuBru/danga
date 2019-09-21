@@ -106,7 +106,8 @@ header {
 
 .header-link-mix {
   display: inline-block;
-  background-color: white;
+  background-color:#7AF0A2;
+  color: white;
 	border-radius: 25px;
   margin-top: 15px;
   padding: 15px 20px;
@@ -117,7 +118,8 @@ header {
 }
 
 .header-link-mix:hover {
-  background-color: #eee;
+  background-color: #22A14C;
+  color: white;
 }
 
 @media (min-width: 768px) {

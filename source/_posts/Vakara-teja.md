@@ -12,4 +12,4 @@ image: images/mix/vakara.jpg
 <a href="https://www.danga.lv/mono/#raudene">Raudene</a> – nomierina, uzlabo garšu;
 <a href="https://www.danga.lv/mono/#kakumetra">Kaķumētra</a> – nomierina;
 <a href="https://www.danga.lv/mono/#vigriezes">Vīgriezes</a> – nomierina organismu stresa situācijās;
-Balderjāņa laksti – palīdz pret bezmiegu un galvassāpēm.
+<a href="https://www.danga.lv/mono/#baldrians">Baldriāņu laksti</a> – palīdz pret bezmiegu un galvassāpēm.

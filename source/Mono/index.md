@@ -21,7 +21,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/baldrians.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="abolmetra">Baldriāns (<i>Valeriana officinalis</i>)</div>Baldriānim piemīt nomierinoša iedarbība uz centrālo nervu sistēmu un asinsrites sistēmu. Palīdz pret bezmiegu, galvassāpēm un noderīgs klimatērija traucējumu novēršanai. Tēja novērš arī krampjus un zarnu kolikas.</div>
+    <div class="mono-txt"><div class="mono-title" id="baldrians">Baldriāns (<i>Valeriana officinalis</i>)</div>Baldriānim piemīt nomierinoša iedarbība uz centrālo nervu sistēmu un asinsrites sistēmu. Palīdz pret bezmiegu, galvassāpēm un noderīgs klimatērija traucējumu novēršanai. Tēja novērš arī krampjus un zarnu kolikas.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/balta_panatre.jpg"></div>

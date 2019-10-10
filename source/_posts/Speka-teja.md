@@ -8,7 +8,7 @@ tags: mix
 
 **Sastāvs:**
 Zirgkastaņas lapas un ziedi – tonizē vēnas, novērš holesterīna uzkrāšanos, novērš trombu veidošanos;
-<a href="https://www.danga.lv/mono/#lazdu_miza">Lazdu miza</a> – novērš kapilāru plīšanu, attīra asinsvadus, samazina holesterīna līmeni;
+<a href="https://www.danga.lv/mono/#lazdu_miza">Lazdas</a> – novērš kapilāru plīšanu, attīra asinsvadus, samazina holesterīna līmeni;
 <a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – stiprina imunitāti;
 <a href="https://www.danga.lv/mono/#asinszale">Asinszāle</a> – uzlabo pašsajūtu un garastāvokli, uzlabo venozo asinsriti;
 <a href="https://www.danga.lv/mono/#piparmetra">Piparmētra</a> – paplašina sirds asinsvadus, samazina asinsspiedienu, uzlabo garšu;

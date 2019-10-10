@@ -13,4 +13,4 @@ image: images/mix/viru.jpg
 Lupstājs – stimulē dzimumspēju vīriešiem;
 Tīruma naudulis – ārstē impotenci;
 <a href="https://www.danga.lv/mono/#sarkanais_abolins">Sarkanais āboliņš</a> – stimulē vīrišķo hormonu veidošanos, kavē holesterīna uzkrāšanos;
-<a href="https://www.danga.lv/mono/#lazdu_miza">Lazdu miza</a> – novērš kapilāru plīšanu, attīra asinsvadus, samazina holesterīna līmeni.
+<a href="https://www.danga.lv/mono/#lazdu_miza">Lazdas</a> – novērš kapilāru plīšanu, attīra asinsvadus, samazina holesterīna līmeni.

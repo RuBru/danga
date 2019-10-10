@@ -50,7 +50,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/lazdu_miza.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="lazdu_miza">Lazdu miza (<i>Corylus avellana</i>)</div>Lazdu miza tonizē vēnas, novērš kapilāru plīšanu, samazina iekaisumus asinsvados, tā mazina rīta tūskas un pazemina asinsspiedienu. Lazdu mizu tēju, lietojot ilgstoši, samazinās holesterīna līmenis un ar to saistītā aterosklerozes veidošanās, mazinās iespēja piedzīvot infarktu un insultu.</div>
+    <div class="mono-txt"><div class="mono-title" id="lazdu_miza">Lazdas (<i>Corylus avellana</i>)</div>Lazdu lapas un mizas tonizē vēnas, novērš kapilāru plīšanu, samazina iekaisumus asinsvados, tā mazina rīta tūskas un pazemina asinsspiedienu. Lazdu mizu tēju, lietojot ilgstoši, samazinās holesterīna līmenis un ar to saistītā aterosklerozes veidošanās, mazinās iespēja piedzīvot infarktu un insultu.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/liela_celteka.jpg"></div>

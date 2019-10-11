@@ -5,6 +5,8 @@
     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
+    /* accurately measure the time spent on the last pageview of a visit */
+    _paq.push(['enableHeartBeatTimer']);
     (function() {
       var u="<%= theme.matomo_analytics %>";
       _paq.push(['setTrackerUrl', u+'m.php']);

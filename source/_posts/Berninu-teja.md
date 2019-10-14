@@ -11,6 +11,6 @@ image: images/mix/berninu.jpg
 <a href="https://www.danga.lv/mono/#liepziedi">Liepziedi</a> – pazemina temperatūru, sildoša iedarbība;
 Rudzupuķe – mazina temperatūru;
 <a href="https://www.danga.lv/mono/#kakumetra">Kaķumētra</a> – nomierina;
-<a href="https://www.danga.lv/mono/#meza_avenes">Meža avenes</a> – sakārto mēnešreizes un nomierina organismu;
+<a href="https://www.danga.lv/mono/#meza_avenes">Meža avenes</a> – veicina vielmaiņu;
 Madaras – attīra organismu;
 Upeņu lapas – paaugstina organisma aizsargspējas.

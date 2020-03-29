@@ -1,6 +1,6 @@
 <footer class="text-center mt-5 py-5">
   <% if (theme.email_url) { %>
-    <a href="<%- theme.email_url %>" target="_blank" onclick="_paq.push(['trackEvent', 'Contact', 'EmailCTA', 'Footer', 1.50]);"><i class="fa fa-envelope-o mr-4"></i></a>
+    <a href="<%- theme.email_url %>" target="_blank" onclick="_paq.push(['trackEvent', 'Contact', 'EmailCTA', 'Footer', 1.50]);"><i id="footer-email" class="fa fa-envelope-o mr-4"></i></a>
   <% } %>
   <% if (theme.twitter_url) { %>
     <a href="<%- theme.twitter_url %>" target="_blank"><i class="fa fa-twitter mr-4"></i></a>

@@ -19,7 +19,7 @@ default_image: images/replacement.jpg
 matomo_analytics: //matomo.danga.lv/
 
 # Social Accounts
-email_url: mailto:aija.bruna@inbox.lv
+email_url: mailto:aija.bruna@inbox.lv?subject=Interesē%20iegādāties%20Dangas%20tējas.&body=Labdien%21%0D%0A%0D%0AVēlējos%20sīkāk%20painteresēties%20par%20Dangas%20tējām.
 twitter_url:
 facebook_url:
 instagram_url:

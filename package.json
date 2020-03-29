@@ -2,6 +2,14 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "start": "yarn build && yarn launch",
+    "build": "hexo generate",
+    "deploy": "yarn build && yarn deploy:upload && yarn deploy:invalidate",
+    "deploy:upload": "aws s3 sync public s3://website-danga.lv --acl public-read",
+    "deploy:invalidate": "aws cloudfront create-invalidation --distribution-id E3SKZU58UCMI8 --paths '/*'",
+    "launch": "hexo server"
+  },
   "hexo": {
     "version": "3.8.0"
   },

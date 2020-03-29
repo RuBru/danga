@@ -2,15 +2,15 @@
 name: Svētku tēja
 id: svetku_teja
 tags: mix
-image: images/mix/svetku.jpg
+image: images/mix/ziemas_svetku.jpg
 ---
-*Atsvaidzinoša tēja ikdienas lietošanai. Nomierina un veicina gremošanu, stiprina organismu. Lai katra diena kā svētki!*
+*Sildoša, stiprinoša ikdienas tēja ar atsvaidzinošu garšu. Nomierina un veicina gremošanu, stiprina organismu. Lai katra diena kā svētki!*
 
 **Sastāvs:**
-<a href="https://www.danga.lv/mono/#piparmetra">Piparmētra</a> – nomierina un uzlabo gremošanu, dod atsvaidzinošu garšu;
-<a href="https://www.danga.lv/mono/#pelaski">Pelašķi</a> – rosina ēstgribu un gremošanas sulu sekrēciju, novērš spazmas un gāzu uzkrāšanos;
-<a href="https://www.danga.lv/mono/#meza_avenes">Meža avenes</a> – veicina vielmaiņu, remdē slāpes;
+Āboli – bagātina organismu ar minerālvielām un vitamīniem, dod patīkamu garšu;
+Dzērvenes – bagātina organismu ar vitamīniem;
+<a href="https://www.danga.lv/mono/#meza_avenes">Meža avenes</a> – atsvaidzina, stiprina organismu, remdē slāpes;
+<a href="https://www.danga.lv/mono/#udens_piparmetra">Ūdens piparmētra</a> – nomierina, veicina gremošanu, uzlabo garšu;
 Upeņu lapas – paaugstina organisma aizsargspējas;
-<a href="https://www.danga.lv/mono/#klingerites">Kliņģerītes</a> – nomierina, pazemina asinsspiedienu, padziļina elpošanu;
-Jasmīns – enerģētiski sakārto organismu;
-<a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – uzlabo imunitāti, veicina gremošanu.
+<a href="https://www.danga.lv/mono/#pelaski">Pelašķi</a> – rosina ēstgribu un gremošanas sulu sekrēciju;
+Samtenes – piedod citrusa garšu.

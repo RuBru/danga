@@ -1,7 +1,7 @@
 ---
 title: Kur atrast Dangas tējas?
 ---
-Dangas zāļu tējas iespējams iegādāties pirts lietu, garšvielu un citos vietējo ražotāju veikalos un tūrisma informācijas centros Daugavas kreisajā krastā. Regulāri braukājam arī pa gadatirgiem visā Kurzemē.
+Dangas zāļu tējas iespējams iegādāties pirts lietu, garšvielu un citos vietējo ražotāju veikalos un tūrisma informācijas centros Daugavas kreisajā krastā. Regulāri braukājam arī pa gadatirgiem visā Kurzemē. Ir iespējama piegāde ar Omniva pakomātu vai Latvijas Pasta starpniecību.
 
 Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazdangā!
 
@@ -45,6 +45,9 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
     var marker = L.marker([56.72144, 21.60267], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Mētras māja</b><br>Aizpute, Pasta iela 1A").openPopup();
+    var marker = L.marker([56.96879, 21.96153], {riseOnHover: true
+    }).addTo(mymap);
+        marker.bindPopup("<b>Kuldīgas labumi</b><br>Kuldīga, Pilsētas laukums 7A").openPopup();
     var marker = L.marker([56.50771, 21.01234], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Liepājas reģiona tūrisma informācijas birojs </b><br>Liepāja, Rožu laukums 5/6").openPopup();
@@ -54,7 +57,7 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
     var marker = L.marker([56.51560, 21.01372], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Bitīte un medutiņš </b><br>Liepāja, Raiņa iela 9").openPopup();
-// Razotne
+// Ražotne
     var marker = L.marker([56.72957, 21.72763], {
         icon: myIcon,
         riseOnHover: true

@@ -8,8 +8,10 @@ image: images/mix/ugunigam_sievietem.jpg
 
 **Sastāvs:**
 Izops – paaugstina asinsspiedienu, novērš dzimumtieksmi;
-<a href="https://www.danga.lv/mono/#salvija">Salvija</a> – samazina svīšanu sievietēm menopauzē;
 <a href="https://www.danga.lv/mono/#rasaskreslini">Rasaskrēsliņi</a> – attīra organismu, samazina asiņošanu un regulē menstruālo ciklu;
 <a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – stiprina organismu, paaugstina imunitāti, uzlabo garšu;
-<a href="https://www.danga.lv/mono/#klingerites">Kliņģerītes</a> – nomierina, mazina iekaisumus;
-<a href="https://www.danga.lv/mono/#apini">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu.
+<a href="https://www.danga.lv/mono/#salvija">Salvija</a> – samazina svīšanu sievietēm menopauzē;
+Izops - samazina svīšanu;
+<a href="https://www.danga.lv/mono/#apini">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu;
+<a href="https://www.danga.lv/mono/#asinszale">Asinszāle</a> – tonizē organismu;
+<a href="https://www.danga.lv/mono/#melisa">Melisa</a> – piešķir atsvaidzinošu garšu unnrada vēlmi kļūt veselam;

@@ -1,7 +1,7 @@
 ---
 title: Mono tējas
 ---
-Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iespējams nopirkt atsevišķā veidā. Šeit atrodams saraksts ar mūsu mono tēju piedāvājumu un katrai zālītei piemītošajām īpašībām un pielietojumu tautas medicīnā.
+Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iespējams nopirkt atsevišķā veidā. Šeit atrodams saraksts ar mūsu mono tēju piedāvājumu un katrai zālītei piemītošajām īpašībām un pielietojumu tautas medicīnā.
 <hr>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/apini.jpg"></div>
@@ -135,6 +135,10 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 36 ir iesp�
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/udensmetra.jpg"></div>
     <div class="mono-txt"><div class="mono-title" id="udens_piparmetra">Ūdens piparmētra (<i>Mentha aquatica</i>)</div>Ūdensmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Mētru tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs, gremošanas uzlabošanai, kā arī tā noņem spazmas kuņģī un zarnās un novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena samazināšanai. Salīdzinājumā ar piparmētru, ūdens piparmētras garša ir maigāka un mentols nekož acīs.</div>
+</div>
+<div class="mono-container">
+    <div class="mono-pic"><img src="../images/mono/vermele.jpg"></div>
+    <div class="mono-txt"><div class="mono-title" id="vermele">Vērmele (<i>Artemisia absinthium</i>)</div>Vērmele ierosina ēstgribu, sekmē gremošanas dziederu sekrēciju - palielina kunģā žults un aizkuņģa dziedzeru sulu izdalīšanos. Lieto arī pret bezmiegu, menstruāciju regulēšanai un kā prettārpu līdzekli. Novērš nepatīkamu smaku mutē.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vilkabele.jpg"></div>

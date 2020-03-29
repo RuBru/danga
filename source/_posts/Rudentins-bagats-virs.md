@@ -2,7 +2,7 @@
 name: Rudentiņš - bagāts vīrs
 id: rudentins
 tags: mix
-image: images/mix/svetku.jpg
+image: images/mix/replacement1.jpg
 ---
 *Tēja imunitātei ar patīkamu augļu garšu. Stiprina organismu.*
 

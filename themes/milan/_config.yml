@@ -16,7 +16,7 @@ favicon_url: images/D.ico
 default_image: images/replacement.jpg
 
 # Matomo Analytics Tracking ID
-matomo_analytics: //kalvis.lv/piwik/
+matomo_analytics:
 
 # Goat Counter data collection
 goat_counter: danga

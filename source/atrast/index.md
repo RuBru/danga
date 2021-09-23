@@ -30,9 +30,6 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
     popupAnchor: [-6, -35]
     });
 // Veikali
-    var marker = L.marker([57.03697, 22.77587], {riseOnHover: true
-    }).addTo(mymap);
-        marker.bindPopup("<b>Dāvanu veikals</b><br>Kandava, Ūdens iela 2-2").openPopup();
     var marker = L.marker([56.92451, 24.10311], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Garšu bode</b><br>Rīga, Mūkusalas iela 72B").openPopup();
@@ -51,12 +48,12 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
     var marker = L.marker([56.50771, 21.01234], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Liepājas reģiona tūrisma informācijas birojs </b><br>Liepāja, Rožu laukums 5/6").openPopup();
-    var marker = L.marker([57.39758, 21.56631], {riseOnHover: true
-    }).addTo(mymap);
-        marker.bindPopup("<b>Amatu māja</b><br>Ventspils, Skolas iela 3").openPopup();
     var marker = L.marker([56.51560, 21.01372], {riseOnHover: true
     }).addTo(mymap);
         marker.bindPopup("<b>Bitīte un medutiņš </b><br>Liepāja, Raiņa iela 9").openPopup();
+    var marker = L.marker([56.9057717, 24.0563249], {riseOnHover: true
+    }).addTo(mymap);
+        marker.bindPopup("<b>Top! </b><br>Mārupe, Daugavas iela 27").openPopup();
 // Ražotne
     var marker = L.marker([56.72957, 21.72763], {
         icon: myIcon,

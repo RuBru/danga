@@ -1,7 +1,7 @@
 ---
 name: Kazzālītes
 id: kazzalites
-image: images/mix/replacement1.jpg
+image: images/mix/replacement4.jpg
 tags: mix
 ---
 *Tēja jaunībai ar patīkamu citrusa garšu.*

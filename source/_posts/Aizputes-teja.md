@@ -2,7 +2,7 @@
 name: Aizputes tēja
 id: aizputes_teja
 tags: mix
-image: images/mix/replacement3.jpg
+image: images/mix/replacement1.jpg
 ---
 *Tēja aizputniekiem un Aizputes viesiem ar anīsa garšu. Labi noder pēc sātīgām pusdienām.*
 

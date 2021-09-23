@@ -2,7 +2,7 @@
 name: Bērniņu tēja
 id: berninu
 tags: mix
-image: images/mix/replacement1.jpg
+image: images/mix/replacement2.jpg
 ---
 *Maigs mārsila, kaķumētras un upeņu lapu apvienojums palīdzēs gan pieaugušajam, gan bērnam tikt galā ar uztraukumu, gremošanas problēmām un saaukstēšanos.*
 

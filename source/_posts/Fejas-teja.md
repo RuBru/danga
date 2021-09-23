@@ -1,7 +1,7 @@
 ---
 name: Fejas tēja
 id: fejas_teja
-image: images/mix/replacement2.jpg
+image: images/mix/replacement3.jpg
 tags: mix
 ---
 *Aromātiska tēja sievietes veselībai un priekam.*

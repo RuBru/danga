@@ -86,7 +86,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/moldavijas_pukgalve.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="moldavijas_pukgalve">Moldāvijas pūķgalve (<i>Dracocephalum moldavica</i>)</div>Pūķgalvei piemīt nomierinoša, organismu stiprinoša un gremošanu veicinoša iedarbība. Tai piemīt stipra, citronam līdzīga smarža, augs nesatur mentolu. Pūķgalves tēja mazina stresu, uztraukumu, palīdz atjaunot spēkus, veicina žults izdalīšanos. Pūķgalvi var lietot kā garšvielu, pievienjot to salātiem, kā arī izmantot dzērienu aromatizēšanai.</div>
+    <div class="mono-txt"><div class="mono-title" id="moldavijas_pukgalve">Moldāvijas pūķgalve (<i>Dracocephalum moldavica</i>)</div>Pūķgalvei piemīt nomierinoša, organismu stiprinoša un gremošanu veicinoša iedarbība. Tai piemīt stipra, citronam līdzīga smarža, augs nesatur mentolu. Pūķgalves tēja mazina stresu, uztraukumu, palīdz atjaunot spēkus, veicina žults izdalīšanos. Tai ir izteikta pretnovecošanās iedarbība. Pūķgalvi var lietot kā garšvielu, pievienjot to salātiem, kā arī izmantot dzērienu aromatizēšanai.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/pelaski.jpg"></div>
@@ -154,7 +154,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vigriezes.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="vigriezes">Vīgrieze (<i>Filipendula ulmaria</i>)</div>Vīgriezēm piemīt pretiekaisuma, urīndzenoša, sviedrējoša un nomirinoša iedarbība. Tās uzlabo gremošanu un vielmaiņu, stabilizē organismu stresa situācijās. Vīgriežu tēja paplašina sirds un galvas asinsvadus, tāpēc ieteicama skolēniem eksāmenu laikā. Tā pazemina asinsspiedienu. Vīgriežu tēju lieto arī nieru un urīnpūšļa slimību, tūskas, reimatisma, podagras un saaukstēšanās ārstēšanai.</div>
+    <div class="mono-txt"><div class="mono-title" id="vigriezes">Vīgrieze (<i>Filipendula ulmaria</i>)</div>Vīgriezēm piemīt pretiekaisuma, urīndzenoša, sviedrējoša un nomierinoša iedarbība. Tās uzlabo gremošanu un vielmaiņu, stabilizē organismu stresa situācijās. Vīgriežu tēja paplašina sirds un galvas asinsvadus, tāpēc ieteicama skolēniem eksāmenu laikā. Tā pazemina asinsspiedienu, mazina trombu veidošanās risku. Vīgriežu tēju lieto arī nieru un urīnpūšļa slimību, tūskas, reimatisma, podagras un saaukstēšanās ārstēšanai.</div>
 </div>
 <hr>
 Tēju aprakstos izmantotā informācija par augu ietekmi uz cilvēki organismu ņemta no šādiem literatūras avotiem:

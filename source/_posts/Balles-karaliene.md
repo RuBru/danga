@@ -12,4 +12,4 @@ image: images/mix/balles_karaliene.jpg
 <a href="https://www.danga.lv/mono/#balta_panatre">Baltā panātre</a> – ārstē baltos ziedus;
 <a href="https://www.danga.lv/mono/#klingerites">Kliņģerītes</a> – ārstē iekaisumus un samazina asinsspiedienu;
 <a href="https://www.danga.lv/mono/#raudene">Raudene</a> – pret sāpīgām mēnešreizēm;
-<a href="https://www.danga.lv/mono/#vibotne">Vībotne</a> – sakārto mēnešreizes un nomierina organismu.
+<a href="https://www.danga.lv/mono/#melisa">Citronmelisa</a> – rada vēlmi kļūt veselam un piedod atsvaidzinošu garšu.

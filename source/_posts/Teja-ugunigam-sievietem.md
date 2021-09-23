@@ -14,4 +14,3 @@ Izops – paaugstina asinsspiedienu, novērš dzimumtieksmi;
 Izops - samazina svīšanu;
 <a href="https://www.danga.lv/mono/#apini">Apiņi</a> – nomierina, satur sievišķo hormonu – estrogēnu;
 <a href="https://www.danga.lv/mono/#asinszale">Asinszāle</a> – tonizē organismu;
-<a href="https://www.danga.lv/mono/#melisa">Melisa</a> – piešķir atsvaidzinošu garšu unnrada vēlmi kļūt veselam;

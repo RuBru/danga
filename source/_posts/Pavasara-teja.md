@@ -1,5 +1,5 @@
 ---
-name: Pavasara tēja
+name: Meža noslēpums
 id: pavasara_teja
 tags: mix
 image: images/mix/replacement4.jpg

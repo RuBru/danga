@@ -2,7 +2,7 @@
 name: Liepājas vējš
 id: liepajas_vejs
 tags: mix
-image: images/mix/replacement2.jpg
+image: images/mix/replacement3.jpg
 ---
 *Tēja liepājniekiem un Liepājas viesiem. Mierīgam vakaram pēc pastaigas vēja pilsētā. Silda un stiprina organismu.*
 

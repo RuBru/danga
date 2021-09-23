@@ -1,8 +1,8 @@
 # Header
 menu:
-  Sākums: /
+  Jauktās tējas: /#shop
   Mono tējas: /mono
-  Par tējām: /par
+  Par Dangas tējām: /par
   Kur atrast: /atrast
 header_text: Latvijas laukos vākta un audzēta zāļu tēja
 button_mix: Jauktās tējas
@@ -13,7 +13,7 @@ header_image: images/header.jpg
 favicon_url: images/D.ico
 
 # Default Image for Posts
-default_image: images/replacement.jpg
+default_image: images/mix/replacement1.jpg
 
 # Matomo Analytics Tracking ID
 matomo_analytics:

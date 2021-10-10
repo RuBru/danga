@@ -15,11 +15,11 @@ Un, protams, vienmēr priecājamies par ciemiņiem, kas iegriežas pie mums Kazd
 <div id="mapid" style="height: 380px;"></div>
 <script>
     var mymap = L.map('mapid').setView([57.0000000, 22.6000000], 8);
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors,<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         maxZoom: 20,
         minZoom: 7,
-        id: 'mapbox.streets',
+        id: 'mapbox/light-v10',
         accessToken: 'pk.eyJ1IjoicnVicnUiLCJhIjoiY2pyMXNlNng4MHJjNjQ5cnVwOG42bjVrdSJ9.6liGxxe_Nday1-Vlyvqqpg'
     }).addTo(mymap);
 // Home ikona

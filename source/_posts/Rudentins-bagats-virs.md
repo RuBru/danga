@@ -9,7 +9,7 @@ image: images/mix/replacement1.jpg
 **Sastāvs:**
 Āboli – bagātina organismu ar minerālvielām un vitamīniem, dod patīkamu garšu;
 Dzērvenes – bagātina organismu ar vitamīniem;
-Pīlādžu ogas - bagātina organismu ar vitamīniem, dod mazliet rūgtenu piegaršu;
+Pīlādžu ogas - bagātina organismu ar vitamīniem, dod mazliet rūgtenu piegaršu, samazina asinsspiedienu;
 Upeņu ogas - pretvīrusu iedarbība;
 <a href="https://www.danga.lv/mono/#melisa">Citronmelisa</a> – rada vēlmi kļūt veselam un piedod atsvaidzinošu garšu;
 <a href="https://www.danga.lv/mono/#piparmetra">Piparmētra</a> – veicina vielmaiņu un mazina stresu.

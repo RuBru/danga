@@ -20,10 +20,6 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iesp�
     <div class="mono-txt"><div class="mono-title" id="abolmetra">Ābolmētra (<i>Mentha suaveolens</i>)</div>Ābolmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs, gremošanas uzlabošanai. Tā noņem spazmas kuņģī un zarnās, stimulē žults izdalīšanos, novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā. Ābolmētrai maigāka garša nekā piparmētrai, jo tā satur mazāk mentola.</div>
 </div>
 <div class="mono-container">
-    <div class="mono-pic"><img src="../images/mono/baldrians.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="baldrians">Baldriāns (<i>Valeriana officinalis</i>)</div>Baldriānim piemīt nomierinoša iedarbība uz centrālo nervu sistēmu un asinsrites sistēmu. Palīdz pret bezmiegu, galvassāpēm un noderīgs klimatērija traucējumu novēršanai. Tēja novērš arī krampjus un zarnu kolikas.</div>
-</div>
-<div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/balta_panatre.jpg"></div>
     <div class="mono-txt"><div class="mono-title" id="balta_panatre">Baltā panātre (<i>Lamium album</i>)</div>Baltajai panātrei piemīt savelkoša, pretiekaisuma, pretalerģiska un tonizējoša iedarbība. Panātres nomierina centrālo nervu sistēmu, stimulē dzemdes kontrakcijas, pazemina cukura līmeni asinīs. Tēju lieto pret baltajiem ziediem, dzemdes asiņošanu, mēnešreižu traucējumiem. Tā palīdz  urīnpūšļa, urīnvadu, nieru bļodiņu iekaisumu un bezmiega gadījumos.</div>
 </div>
@@ -74,7 +70,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/melisa.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="melisa">Melisa (<i>Melissa officinalis</i>)</div>Melisai piemīt nomierinoša, antidepresīva, spazmolītiska, un asinsspiedienu samazinoša iedarbība. Melisas tēju lieto pret neirozēm, histēriju, migrēnu, bezmiegu, paaugstinātu asinsspiedienu, tā mazina galvas reiboņus, troksni ausīs, paaugstinātu dzimumtieksmi. Kādu laiku lietojot šo tēju, cilvēkam rodas vēlme kļūt veselam.</div>
+    <div class="mono-txt"><div class="mono-title" id="melisa">Citronmelisa (<i>Melissa officinalis</i>)</div>Citronmelisai piemīt nomierinoša, antidepresīva, spazmolītiska, un asinsspiedienu samazinoša iedarbība. Citronmelisas tēju lieto pret neirozēm, histēriju, migrēnu, bezmiegu, paaugstinātu asinsspiedienu, tā mazina galvas reiboņus, troksni ausīs, paaugstinātu dzimumtieksmi. Kādu laiku lietojot šo tēju, cilvēkam rodas vēlme kļūt veselam.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/melnais_pluskoks.jpg"></div>
@@ -134,7 +130,7 @@ Gada garumā ievācam vairāk nekā 50 dažādu zālīšu, no kurām 37 ir iesp�
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/udensmetra.jpg"></div>
-    <div class="mono-txt"><div class="mono-title" id="udens_piparmetra">Ūdens piparmētra (<i>Mentha aquatica</i>)</div>Ūdensmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Mētru tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs, gremošanas uzlabošanai, kā arī tā noņem spazmas kuņģī un zarnās un novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena samazināšanai. Salīdzinājumā ar piparmētru, ūdens piparmētras garša ir maigāka un mentols nekož acīs.</div>
+    <div class="mono-txt"><div class="mono-title" id="udens_piparmetra">Ūdensmētra (<i>Mentha aquatica</i>)</div>Ūdensmētrai piemīt nomierinoša, spazmolītiska un antiseptiska iedarbība. Mētru tēju lieto sirds asinsvadu paplašināšanai, ja ir sāpes krūtīs, gremošanas uzlabošanai, kā arī tā noņem spazmas kuņģī un zarnās un novērš sliktu dūšu. To lieto arī neirozes un bezmiega gadījumā, kā arī asinsspiediena samazināšanai. Salīdzinājumā ar piparmētru, ūdensmētras garša ir maigāka un mentols nekož acīs.</div>
 </div>
 <div class="mono-container">
     <div class="mono-pic"><img src="../images/mono/vermele.jpg"></div>

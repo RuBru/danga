@@ -12,5 +12,4 @@ image: images/mix/dziesmu_vacelite.jpg
 <a href="https://www.danga.lv/mono/#mallepes">Māllēpes</a> – sekmē krēpu sašķidrināšanos un izdalīšanos;
 Upeņu lapas – paaugstina organisma aizsargspējas;
 <a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – paaugstina imunitāti, uzlabo garšu;
-<a href="https://www.danga.lv/mono/#pelaski">Pelašķi</a> – novērš spazmas un pazemina temperatūru;
-Krastkaņepe – paaugstina izturību pret infekcijām, uzlabo vielmaiņu.
+<a href="https://www.danga.lv/mono/#pelaski">Pelašķi</a> – novērš spazmas un pazemina temperatūru.

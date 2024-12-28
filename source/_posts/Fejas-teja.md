@@ -9,8 +9,8 @@ tags: mix
 **Sastāvs:**
 <a href="https://www.danga.lv/mono/#kumelites">Kumelītes</a> – pretiekaisuma, sāpes samazinoša iedarbība;
 <a href="https://www.danga.lv/mono/#piparmetra">Piparmētra</a> – nomierina, uzlabo garšu;
-<a href="https://www.danga.lv/mono/#raudene">Raudene</a> – ārstē sāpīgas mēnešreizes;
+<a href="https://www.danga.lv/mono/#raudene">Raudene</a> – ārstē sāpīgas mēnešreizes, nomierina;
 <a href="https://www.danga.lv/mono/#rasaskreslini">Rasaskrēsliņi</a> – pretiekaisuma iedarbība;
 <a href="https://www.danga.lv/mono/#asinszale">Asinszāle</a> – uzlabo asinsriti;
-<a href="https://www.danga.lv/mono/#sarkanais_abolins">Sarkanais āboliņš</a> – paaugstina organisma izturību pret slimībām;
+<a href="https://www.danga.lv/mono/#sarkanais_abolins">Sarkanais āboliņš</a> – paaugstina organisma izturību pret slimībām un veicina sievišķo hormonu veidošanos;
 <a href="https://www.danga.lv/mono/#meza_avenes">Meža avenes</a> – veicina vielmaiņu.

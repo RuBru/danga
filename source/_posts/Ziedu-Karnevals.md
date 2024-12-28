@@ -13,5 +13,4 @@ image: images/mix/ziedu_karnevals.jpg
 <a href="https://www.danga.lv/mono/#ugunspuke">Ugunspuķe</a> – paaugstina imunitāti;
 <a href="https://www.danga.lv/mono/#kumelites">Kumelītes</a> – mīkstina, uzlabo gremošanu;
 <a href="https://www.danga.lv/mono/#mallepes">Māllēpes</a> – sekmē krēpu sašķidrināšanos un izdalīšanos;
-<a href="https://www.danga.lv/mono/#liepziedi">Liepziedi</a> – pazemina temperatūru, sildoša iedarbība;
-Vītolu lapas – darbojas kā dabīgais aspirīns, kas nekairina kuņģi.
+<a href="https://www.danga.lv/mono/#liepziedi">Liepziedi</a> – pazemina temperatūru, sildoša iedarbība.

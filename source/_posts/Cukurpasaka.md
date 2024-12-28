@@ -6,7 +6,7 @@ image: images/mix/cukurpasaka.jpg
 ---
 *Tēja ar patīkamu saldenu garšu, regulē cukura līmeni asinīs. Cukuru šajai tējai klāt nevajadzēs!*
 
-**Sastāvs:** 
+**Sastāvs:**
 Melleņu laksti – pazemina cukura līmeni;
 <a href="https://www.danga.lv/mono/#smiltserksu_lapas">Smiltsērkšķu lapas</a> – stiprina organismu;
 <a href="https://www.danga.lv/mono/#raudene">Raudene</a> – nomierina, dziedē iekaisumus, uzlabo garšu;

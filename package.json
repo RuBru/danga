@@ -7,7 +7,7 @@
     "build": "hexo generate",
     "deploy": "yarn build && yarn deploy:upload && yarn deploy:invalidate",
     "deploy:upload": "aws s3 sync public s3://website-danga.lv --delete --acl public-read",
-    "deploy:invalidate": "aws cloudfront create-invalidation --distribution-id E3SKZU58UCMI8 --path /*",
+    "deploy:invalidate": "aws cloudfront create-invalidation --distribution-id E3SKZU58UCMI8 --path '/*'",
     "launch": "hexo server"
   },
   "hexo": {
